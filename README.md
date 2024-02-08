@@ -1,5 +1,13 @@
 # IR spectrsocopy of 2D materials
 
+### About the project:
+The aim of my is to probe the optical properties a 2D materials -Platinum diselenide (PtSe2)- in extreme cold temperatures with the use of liquid nitrogen.
+I use programming to make sense of my measurements and to compare them to literature and theory.
+
+The PtSe2 sample I work with is deposited on a sapphire substrate therefore the initial part of my research consists of probing optical properties of sapphire in extreme cold conditions.
+
+Below, I've tried to make sense of my *workflow and the way I compile and analyse measurements*.
+
 There are two different sets of codes in MRes_Code repository:
 - WORKFLOW and
 - MODEL
